@@ -82,6 +82,7 @@
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"id":{"name":"scr_moveTo","path":"scripts/scr_moveTo/scr_moveTo.yy",},},
     {"id":{"name":"snd_room4","path":"sounds/snd_room4/snd_room4.yy",},},
     {"id":{"name":"sp_arrowDown","path":"sprites/sp_arrowDown/sp_arrowDown.yy",},},
     {"id":{"name":"sp_arrowLeft","path":"sprites/sp_arrowLeft/sp_arrowLeft.yy",},},

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_moveTo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_moveTo",
+  "parent":{
+    "name":"tankGame",
+    "path":"folders/Objects/miniGames/tankGame.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

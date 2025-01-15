@@ -6,10 +6,20 @@ down = keyboard_check( ord("S") );
 var horisontal = right - left;
 var vertical = down - up;
 
-if right
-{
-x+=moveSpd	;
-image_angle=0;
+moveTankKeys = {
+    right: {
+        isActive: function() {
+            return keyboard_check(ord("D"));
+        },
+        moveFunc: function(obj) {
+            scr_moveTo(obj, "x", 5);
+            obj.image_angle = 0; 
+        },
+    }
+};
+
+if (moveTankKeys.right.isActive()) {
+    moveTankKeys.right.moveFunc(self);
 }
 
 if left
