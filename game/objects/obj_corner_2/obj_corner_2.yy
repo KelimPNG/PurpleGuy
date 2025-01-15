@@ -6,8 +6,8 @@
   "name":"obj_corner_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"rooms",
-    "path":"folders/Objects/rooms.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

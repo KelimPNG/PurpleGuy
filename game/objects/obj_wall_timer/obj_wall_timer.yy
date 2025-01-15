@@ -12,8 +12,8 @@
   "name":"obj_wall_timer",
   "overriddenProperties":[],
   "parent":{
-    "name":"rooms",
-    "path":"folders/Objects/rooms.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

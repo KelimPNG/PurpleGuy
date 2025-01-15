@@ -9,8 +9,8 @@
   "name":"obj_room4sound",
   "overriddenProperties":[],
   "parent":{
-    "name":"arrowGame",
-    "path":"folders/Objects/miniGames/arrowGame.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

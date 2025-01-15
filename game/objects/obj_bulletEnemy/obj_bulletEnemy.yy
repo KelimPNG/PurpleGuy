@@ -10,8 +10,8 @@
   "name":"obj_bulletEnemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"tankGame",
-    "path":"folders/Objects/miniGames/tankGame.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

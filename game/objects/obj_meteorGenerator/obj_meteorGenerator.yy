@@ -9,8 +9,8 @@
   "name":"obj_meteorGenerator",
   "overriddenProperties":[],
   "parent":{
-    "name":"meteorGame",
-    "path":"folders/Objects/miniGames/meteorGame.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
