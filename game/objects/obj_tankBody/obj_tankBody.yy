@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"tankGame",
-    "path":"folders/Objects/tankGame.yy",
+    "path":"folders/Objects/miniGames/tankGame.yy",
   },
   "parentObjectId":null,
   "persistent":false,

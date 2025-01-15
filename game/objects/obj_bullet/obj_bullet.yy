@@ -10,8 +10,8 @@
   "name":"obj_bullet",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tankGame",
+    "path":"folders/Objects/miniGames/tankGame.yy",
   },
   "parentObjectId":null,
   "persistent":false,
