@@ -10,8 +10,8 @@
   "name":"obj_tankBody",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tankGame",
+    "path":"folders/Objects/tankGame.yy",
   },
   "parentObjectId":null,
   "persistent":false,
