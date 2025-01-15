@@ -9,8 +9,8 @@
   "name":"obj_arrowLeft",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"arrowGame",
+    "path":"folders/Objects/miniGames/arrowGame.yy",
   },
   "parentObjectId":null,
   "persistent":false,

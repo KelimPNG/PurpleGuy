@@ -13,8 +13,8 @@
   "name":"obj_button",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"rooms",
+    "path":"folders/Objects/rooms.yy",
   },
   "parentObjectId":null,
   "persistent":false,

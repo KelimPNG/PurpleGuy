@@ -6,8 +6,8 @@
   "name":"obj_gamewall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"meteorGame",
+    "path":"folders/Objects/miniGames/meteorGame.yy",
   },
   "parentObjectId":null,
   "persistent":false,
