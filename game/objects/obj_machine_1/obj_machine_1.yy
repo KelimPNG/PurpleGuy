@@ -8,8 +8,8 @@
   "name":"obj_machine_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"rooms",
+    "path":"folders/Objects/rooms.yy",
   },
   "parentObjectId":null,
   "persistent":false,

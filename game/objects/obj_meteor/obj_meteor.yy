@@ -11,8 +11,8 @@
   "name":"obj_meteor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"meteorGame",
+    "path":"folders/Objects/miniGames/meteorGame.yy",
   },
   "parentObjectId":null,
   "persistent":false,
