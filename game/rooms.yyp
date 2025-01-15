@@ -87,6 +87,7 @@
     {"id":{"name":"sp_background","path":"sprites/sp_background/sp_background.yy",},},
     {"id":{"name":"sp_border","path":"sprites/sp_border/sp_border.yy",},},
     {"id":{"name":"sp_bullet","path":"sprites/sp_bullet/sp_bullet.yy",},},
+    {"id":{"name":"sp_bulletCount","path":"sprites/sp_bulletCount/sp_bulletCount.yy",},},
     {"id":{"name":"sp_button","path":"sprites/sp_button/sp_button.yy",},},
     {"id":{"name":"sp_corner_1","path":"sprites/sp_corner_1/sp_corner_1.yy",},},
     {"id":{"name":"sp_corner_2","path":"sprites/sp_corner_2/sp_corner_2.yy",},},
