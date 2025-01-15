@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"arrowGame",
+    "path":"folders/Sprites/arrowGame.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
