@@ -6,40 +6,6 @@ down = keyboard_check( ord("S") );
 var horisontal = right - left;
 var vertical = down - up;
 
-moveTankKeys = {
-    right: {
-        isActive: function() {
-            return keyboard_check(ord("D"));
-        },
-        moveFunc: function(obj) {
-            scr_moveTo(obj, "x", 5);
-            obj.image_angle = 0; 
-        },
-    }
-};
-
-if (moveTankKeys.right.isActive()) {
-    moveTankKeys.right.moveFunc(self);
-}
-
-if left
-{
-x-=moveSpd	;
-image_angle=0;
-}
-
-if up
-{
-y-=moveSpd	;
-image_angle=90;
-}
-
-if down
-{
-y+=moveSpd	
-image_angle=90;
-}
-
 if (left+up=2) or 
 (left+down=2) or
 (right+up=2) or
