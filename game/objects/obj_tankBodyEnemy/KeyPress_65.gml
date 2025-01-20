@@ -1,5 +1,7 @@
 path = path_add();
 
-mp_potential_path(path, obj_navigation.x, obj_navigation.y, 3, 6, false)
+move = alarm_set(0,30);
 
-path_start(path, 3, path_action_stop, true);
+mp_grid_path(grid, path, x, y, obj_navigation.x, obj_navigation.y, false)
+
+path_start(path, 4, path_action_stop, true);
