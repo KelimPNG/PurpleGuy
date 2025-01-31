@@ -1,17 +1,12 @@
-
-
+// Таймер для обновления пути
 timer = 60;
-x=instance_nearest(x,y,obj_plateCheck).x;
-y=instance_nearest(x,y,obj_plateCheck).y;
 
-gotoX=obj_tankBody.x;
-gotoY=obj_tankBody.y;
+// Размер ячейки сетки
+cell_size = 64;
 
-var cell_size=64;
-
-
-grid = mp_grid_create( 160, 64, 1088/cell_size, 640/cell_size, 64, 64);
+// Создаем сетку для поиска пути
+grid = mp_grid_create(160, 64, 1088 / cell_size, 640 / cell_size, cell_size, cell_size);
 mp_grid_add_instances(grid, obj_tankWall, false);
 
-
-
+// Создаем путь
+path = path_add();
