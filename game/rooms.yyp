@@ -39,7 +39,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"rooms",
   "resources":[
@@ -61,6 +61,7 @@
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_enter","path":"objects/obj_enter/obj_enter.yy",},},
     {"id":{"name":"obj_entrance","path":"objects/obj_entrance/obj_entrance.yy",},},
+    {"id":{"name":"obj_explosion","path":"objects/obj_explosion/obj_explosion.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_gamewall","path":"objects/obj_gamewall/obj_gamewall.yy",},},
     {"id":{"name":"obj_hearts","path":"objects/obj_hearts/obj_hearts.yy",},},
@@ -110,6 +111,7 @@
     {"id":{"name":"sp_door","path":"sprites/sp_door/sp_door.yy",},},
     {"id":{"name":"sp_enter","path":"sprites/sp_enter/sp_enter.yy",},},
     {"id":{"name":"sp_entrance","path":"sprites/sp_entrance/sp_entrance.yy",},},
+    {"id":{"name":"sp_explosion","path":"sprites/sp_explosion/sp_explosion.yy",},},
     {"id":{"name":"sp_floor","path":"sprites/sp_floor/sp_floor.yy",},},
     {"id":{"name":"sp_gamewall","path":"sprites/sp_gamewall/sp_gamewall.yy",},},
     {"id":{"name":"sp_hearts","path":"sprites/sp_hearts/sp_hearts.yy",},},

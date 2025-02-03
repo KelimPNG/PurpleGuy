@@ -1,5 +1,7 @@
-timer -= 1;
-if (timer <= 0) {
+timer_move -= 1;
+timer_bullet -=1;
+if (timer_move <= 0) {
+		
     var nearest_instance = instance_nearest(x, y, obj_plateCheck);
     x = nearest_instance.x;
     y = nearest_instance.y;
@@ -8,6 +10,8 @@ if (timer <= 0) {
     gotoY = obj_tankBody.y;
 
     path_clear_points(path);
+	
+
 
     if (mp_grid_path(grid, path, x, y, gotoX, gotoY, false)) {
 
@@ -28,5 +32,11 @@ if (timer <= 0) {
         show_debug_message("Путь не найден!");
     }
 
-    timer = 60; // Сброс таймера
+    timer_move = 30; // Сброс таймера
 }
+	
+	if (timer_bullet <=0) {
+		instance_create_layer(x,y,"Instances_1", obj_bulletEnemy);	
+		timer_bullet = 60;
+	}
+
