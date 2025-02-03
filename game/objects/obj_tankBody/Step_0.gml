@@ -18,7 +18,9 @@ else
 moveSpd=5	
 }
  
- if mouse_check_button_pressed(mb_left)
+ if mouse_check_button_pressed(mb_left) and !global.bullet_count =0
  {
-instance_create_layer(x,y,"Instances_1", obj_bullet);		 
+instance_create_layer(x,y,"Instances_1", obj_bullet);
+global.bullet_count-=1;
+obj_bulletCount.image_index +=1;
  }
