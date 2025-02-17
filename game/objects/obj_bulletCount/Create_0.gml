@@ -1,1 +1,2 @@
-global.bullet_count=5
+global.bullet_count=5;
+

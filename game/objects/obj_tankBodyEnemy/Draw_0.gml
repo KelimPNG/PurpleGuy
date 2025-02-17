@@ -1,3 +1,4 @@
+draw_self()
 
 if (path_exists(path_index))
 {

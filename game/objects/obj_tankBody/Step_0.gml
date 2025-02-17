@@ -24,3 +24,5 @@ instance_create_layer(x,y,"Instances_1", obj_bullet);
 global.bullet_count-=1;
 obj_bulletCount.image_index +=1;
  }
+ 
+ 
