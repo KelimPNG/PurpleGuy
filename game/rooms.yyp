@@ -101,6 +101,7 @@
     {"id":{"name":"obj_ship","path":"objects/obj_ship/obj_ship.yy",},},
     {"id":{"name":"obj_tankBody","path":"objects/obj_tankBody/obj_tankBody.yy",},},
     {"id":{"name":"obj_tankBodyEnemy","path":"objects/obj_tankBodyEnemy/obj_tankBodyEnemy.yy",},},
+    {"id":{"name":"obj_tankGameMachine","path":"objects/obj_tankGameMachine/obj_tankGameMachine.yy",},},
     {"id":{"name":"obj_tankHead","path":"objects/obj_tankHead/obj_tankHead.yy",},},
     {"id":{"name":"obj_tankHeadEnemy","path":"objects/obj_tankHeadEnemy/obj_tankHeadEnemy.yy",},},
     {"id":{"name":"obj_tankWall","path":"objects/obj_tankWall/obj_tankWall.yy",},},
@@ -269,8 +270,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},

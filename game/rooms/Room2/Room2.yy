@@ -166,6 +166,7 @@
     {"name":"inst_3A173DFF","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_3690BB90","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_660AD530","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_238A8F1B","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -341,6 +342,7 @@
         {"$GMRInstance":"v1","%Name":"inst_5C5039BC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C5039BC","objectId":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-90.0,"scaleX":3.5,"scaleY":1.0,"x":160.0,"y":448.0,},
         {"$GMRInstance":"v1","%Name":"inst_37BAD5A2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37BAD5A2","objectId":{"name":"obj_machine","path":"objects/obj_machine/obj_machine.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.75,"scaleY":2.75,"x":800.0,"y":192.0,},
         {"$GMRInstance":"v1","%Name":"inst_660AD530","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_660AD530","objectId":{"name":"obj_machine_1","path":"objects/obj_machine_1/obj_machine_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.5390623,"scaleY":2.5390623,"x":1009.25,"y":198.75,},
+        {"$GMRInstance":"v1","%Name":"inst_238A8F1B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_238A8F1B","objectId":{"name":"obj_tankGameMachine","path":"objects/obj_tankGameMachine/obj_tankGameMachine.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.5,"scaleY":3.0,"x":576.0,"y":192.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
