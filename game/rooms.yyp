@@ -259,6 +259,7 @@
     {"id":{"name":"sp_ship","path":"sprites/sp_ship/sp_ship.yy",},},
     {"id":{"name":"sp_tankBody","path":"sprites/sp_tankBody/sp_tankBody.yy",},},
     {"id":{"name":"sp_tankBodyEnemy","path":"sprites/sp_tankBodyEnemy/sp_tankBodyEnemy.yy",},},
+    {"id":{"name":"sp_tankGameMachine","path":"sprites/sp_tankGameMachine/sp_tankGameMachine.yy",},},
     {"id":{"name":"sp_tankHead","path":"sprites/sp_tankHead/sp_tankHead.yy",},},
     {"id":{"name":"sp_tankHeadEnemy","path":"sprites/sp_tankHeadEnemy/sp_tankHeadEnemy.yy",},},
     {"id":{"name":"sp_tankWall","path":"sprites/sp_tankWall/sp_tankWall.yy",},},
