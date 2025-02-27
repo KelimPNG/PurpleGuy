@@ -28,7 +28,7 @@
   ],
   "name":"sp_armsRightHook",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
     "name":"fighting",
     "path":"folders/Sprites/fighting.yy",
@@ -96,7 +96,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":32,
-    "yorigin":32,
+    "yorigin":49,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
