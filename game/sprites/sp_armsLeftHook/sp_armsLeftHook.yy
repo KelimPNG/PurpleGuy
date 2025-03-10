@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"sp_armsLeftHook",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":60,
   "bbox_left":7,
-  "bbox_right":55,
+  "bbox_right":31,
   "bbox_top":36,
   "collisionKind":1,
   "collisionTolerance":0,
